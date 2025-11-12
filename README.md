@@ -1,2 +1,2 @@
-# parasite_personality_test_NL
-Dutch version of the parasite personality test, created by Katie Leslie, adapted by Dr. Tiziana Gobbin, and translated by Dr. Armando Cruz-Laufer.
+# Parasite personality test - Dutch version
+This website was created from a quiz made by Katie Leslie at the University of Washington in 2024, used for science outreach/communication geared towards young audiences. The adaptation to HTML and Javascript was done by Dr. Tiziana Gobbin and the Dutch translation by Dr. Armando Cruz-Laufer at University of Hasselt, Belgium in 2025.
